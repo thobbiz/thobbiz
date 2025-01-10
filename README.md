@@ -1,6 +1,7 @@
-Hi Fella 🙌🤞😁
+# **Thobbiz**
 
-- 🔭 I’m currently working on Avatr: An AI image generator app
-- 🌱 I’m currently learning Backend with GoLang
-- 👯 I’m looking to collaborate on any android project!
-- ⚡ Fun fact: I'm really good at football
+Computer Science student interested in robotics and making stuffs work at all cost. I love football, chess and anything involving tech.
+
+## **Skills**
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,python,html,css,androidstudio&perline=5)](https://skillicons.dev)
