@@ -1,16 +1,10 @@
 ## Hi there 👋
 
-<!--
-**OdelolaTojumi3/OdelolaTojumi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Avatr: An AI image generator app
 - 🌱 I’m currently learning Backend with GoLang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on any android project!
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: twitter serach for Thobbiz
 - ⚡ Fun fact: I'm really good at football
--->
