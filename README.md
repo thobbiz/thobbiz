@@ -19,7 +19,6 @@ I love building things that work—no matter the cost! Passionate about robotics
 ## 📫 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwantojumi-odelola-6020a1203/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YourTwitterURL)  
 📧 **Email:** odelolatojumi@gmail.com 
 
 ---
@@ -27,4 +26,4 @@ I love building things that work—no matter the cost! Passionate about robotics
 ### ♟️ Chess.com Stats  
 [![Chess.com](https://chess.com-badge.vercel.app/api/badge/YourChessUsername)](https://www.chess.com/member/thobbizzzzz)  
 
-*(Replace `YourChessUsername` with your Chess.com handle.)*
+*(Replace `thobbizzzzz` with your Chess.com handle.)*
