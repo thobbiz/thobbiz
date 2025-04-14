@@ -25,5 +25,3 @@ I love building things that work—no matter the cost! Passionate about robotics
 
 ### ♟️ Chess.com Stats  
 [![Chess.com](https://chess.com-badge.vercel.app/api/badge/YourChessUsername)](https://www.chess.com/member/thobbizzzzz)  
-
-*(Replace `thobbizzzzz` with your Chess.com handle.)*
