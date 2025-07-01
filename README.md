@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thobbiz  
 
-**🎓 Computer Science Student | 🤖 Robotics Enthusiast | 🛠️ Maker**  
+**👨‍💻Android Developer | 🎓 Computer Science Student | 🤖 Robotics Enthusiast | 🛠️ Maker**  
 
 I love building things that work—no matter the cost! Passionate about robotics, software development, and solving real-world problems with code. When I'm not programming, you'll find me playing football ⚽, analyzing chess games ♟️, or tinkering with the latest tech gadgets.  
 
