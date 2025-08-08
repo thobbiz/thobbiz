@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Thobbiz  
 
-**👨‍💻Android Developer | 🎓 Computer Science Student | 🤖 Robotics Enthusiast | 🛠️ Maker**  
+**👨‍💻Android and Backend Developer | 🎓 Computer Science Student | 🤖 Robotics Enthusiast**  
 
-I love building things that work—no matter the cost! Passionate about robotics, software development, and solving real-world problems with code. When I'm not programming, you'll find me playing football ⚽, analyzing chess games ♟️, or tinkering with the latest tech gadgets.  
+I build things that I need in my day to day life, things that make an impact.  
 
 ---
 
