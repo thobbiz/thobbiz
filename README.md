@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thobbiz  
+# 👋 Yo, It's Thobbiz  
 
 **👨‍💻Android and Backend Developer | 🎓 Computer Science Student | 🤖 Robotics Enthusiast**  
 
