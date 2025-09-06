@@ -1,8 +1,9 @@
-# 👋 Yo, It's Thobbiz  
+# 👋 Wassup, It's Thobbiz  
 
-**👨‍💻Android and Backend Developer | 🎓 Computer Science Student | 🤖 Robotics Enthusiast**  
+**👨‍💻Android and Backend Developer | 🎓 Computer Science Student | 🤖 Robotics and AI Enthusiast**  
 
 I'm just a guy with hobbies. Trying to many thing, getting only few interests. 
+I research different technologies and in my freetime, I play chess or football.
 
 ---
 
