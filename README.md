@@ -2,7 +2,7 @@
 
 **👨‍💻Android and Backend Developer | 🎓 Computer Science Student | 🤖 Robotics Enthusiast**  
 
-I build things that I need in my day to day life, things that make an impact.  
+I'm just a guy with hobbies. Trying to many thing, getting only few interests. 
 
 ---
 
