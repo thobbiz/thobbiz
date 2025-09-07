@@ -13,7 +13,7 @@ I research different technologies and in my freetime, I play chess or football.
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,python,html,css&perline=6)](https://skillicons.dev)  
 
 ### Frameworks & Tools  
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,git,github,linux,vscode,mysql,mongodb,postgresql&perline=6)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,git,github,linux,vscode,mysql,mongodb,postgresql,docker,vim&perline=6)](https://skillicons.dev)  
 
 ---
 
