@@ -1,4 +1,4 @@
-# 👋 Wassup, It's Thobbiz  
+# 👋 Thobbiz  
 
 **👨‍💻Android and Backend Developer | 🎓 Computer Science Student | 🤖 Robotics and AI Enthusiast**  
 
