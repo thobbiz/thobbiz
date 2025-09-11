@@ -1,8 +1,8 @@
 # 👋 Thobbiz  
 
-**👨‍💻Android and Backend Developer | 🎓 Computer Science Student | 🤖 Robotics and AI Enthusiast**  
+**👨‍💻Android and Backend Developer | 🤖 Robotics and AI Enthusiast**  
 
-I'm just a guy with hobbies. Trying to many thing, getting only few interests. 
+I'm just a guy with hobbies. Trying to many things, getting only few interests. 
 I research different technologies and in my freetime, I play chess or football.
 
 ---
@@ -10,7 +10,7 @@ I research different technologies and in my freetime, I play chess or football.
 ## 🛠️ Skills & Tools  
 
 ### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,python,html,css&perline=6)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,go,python,html,css&perline=6)](https://skillicons.dev)  
 
 ### Frameworks & Tools  
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,gradle,bash,git,github,linux,vscode,mysql,mongodb,postgresql,docker,vim&perline=6)](https://skillicons.dev)  
