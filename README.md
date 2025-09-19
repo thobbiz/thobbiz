@@ -1,15 +1,14 @@
-# 👋 Thobbiz  
+# Thobbiz  
 
-**👨‍💻Android and Backend Developer | 🤖 Robotics and AI Enthusiast**  
+**Android and Backend Developer | Robotics and AI Enthusiast**  
 
-I'm just a guy with hobbies. Trying to many things, getting only few interests. 
-I research different technologies and in my freetime, I play chess or football.
+I like trying out new things with tech. During my freetime I play chess, watch movies and play football
 
 ---
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
 
-### Programming Languages  
+### Languages  
 [![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,go,python,html,css&perline=6)](https://skillicons.dev)  
 
 ### Frameworks & Tools  
@@ -17,12 +16,9 @@ I research different technologies and in my freetime, I play chess or football.
 
 ---
 
-## 📫 Let's Connect!  
+## You can contact me here  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwantojumi-odelola-6020a1203/)  
 📧 **Email:** odelolatojumi@gmail.com 
 
 ---
-
-### ♟️ Chess.com Stats  
-[![Chess.com](https://chess.com-badge.vercel.app/api/badge/thobbizzzzz)(https://www.chess.com/member/thobbizzzzz)  
