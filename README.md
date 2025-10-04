@@ -17,7 +17,7 @@ I like trying out new things with tech. During my freetime I play chess, watch m
 ---
 
 ##  Stats
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=thobbiz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 ## You can contact me here  
