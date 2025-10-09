@@ -5,7 +5,7 @@
 
 <br><br>
 - 👨‍💻 I'm an Android and Backend Engineer
-- :school: I'm a 3rd Year CS undergrad at the University of Lagos.
+- :school: I'm a 3rd Year CS undergrad
 - ✍🏻 I love using Software as a solution for every Problem
 - 📚 I’m currently learning ...
   - *Assembly Language + Compilers*
