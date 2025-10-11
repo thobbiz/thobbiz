@@ -49,10 +49,11 @@
       <td style="width:50%; vertical-align:top; text-align:right; border:none;">
         <h6><b>Deployment & Cloud Services:</b></h6>
         <p>
+          <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />&nbsp;
           <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />&nbsp;
           <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />&nbsp;
           <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />&nbsp;
         </p>
         <h6><b>Database Management:</b></h6>
         <p>
