@@ -1,16 +1,16 @@
 <h1><b>Hi there, I'm Thobbiz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>  
 
-<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 3.5%> **About me**
+<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 3.5%> **Me**
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
 - 👨‍💻 I'm an Android and Backend Engineer
-- :school: I'm a 3rd Year CS undergrad
-- ✍🏻 I love using Software as a solution for every Problem
-- 📚 I’m currently learning ...
+- :school: 3rd Year CS undergrad
+- ✍🏻  wannabe compiler engineer
+- 📚 Currently learning ...
   - *Assembly Language + Compilers*
   - *Data Structures and Algorithms*
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, and playing chess♟️.
+- I enjoy socializing with friends, 🎮 playing video games, and playing chess♟️.
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3.5%>&nbsp; ***Skills***
