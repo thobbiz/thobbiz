@@ -12,7 +12,6 @@
   <a href="#gh-light-mode-only">
     <img align="right" src="https://readme-stats-v.vercel.app/api?username=thobbiz&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
   </a>
-  <h6><b>Languages I use:</b></h6>
   <ul>
     <li>Golang, Java, Python, Kotlin, C</li>
     <li>Postgres, mySQL, mongoDB, Redis</li>
@@ -20,5 +19,5 @@
 </section>
 
 <section>
-Hit me up here @thobbizz on X
+Hit me up here [@thobbizz](https://x.com/thobbizz) on X/Twitter 
 </section>
