@@ -19,5 +19,5 @@
 </section>
 
 <section>
-Hit me up here [@thobbizz](https://x.com/thobbizz) on X/Twitter 
+Hit me up at @thobbizz on X/Twitter 
 </section>
