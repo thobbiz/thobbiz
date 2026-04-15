@@ -1,7 +1,7 @@
 <section>
   <h3><b>Thobbiz</b></h3>
   <p>
-    Lover of Bugs, 3rd Year CS undergrad at Unilag. Android and Backend Engineer. I am interested in Assembly and Compiler...buh I am currently into DSA.
+    Building across the stack, 3rd Year CS undergrad at Unilag.<br> Generalist at heart, specialist by necessity.
   </p>
 </section>
 
