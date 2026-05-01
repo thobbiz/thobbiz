@@ -1,7 +1,7 @@
 <section>
   <h3><b>Thobbiz</b></h3>
   <p>
-    Building across the stack, 3rd Year CS undergrad at Unilag.<br> Generalist at heart, specialist by necessity.
+    Building across the stack, 3rd Year CS undergrad<br> Generalist at heart, specialist by necessity.
   </p>
 </section>
 
