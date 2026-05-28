@@ -2,7 +2,6 @@
 low-level nerd
 generalist at heart, specialist by necessity.
 
----
 
 <p align="right">
   <a href="#gh-dark-mode-only">
@@ -12,7 +11,5 @@ generalist at heart, specialist by necessity.
     <img src="https://readme-stats-v.vercel.app/api?username=thobbiz&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
   </a>
 </p>
-
----
 
 [![Hits](https://hits.sh/github.com/thobbiz.svg?style=flat-square&color=131820)](https://hits.sh/github.com/thobbiz/)
