@@ -3,7 +3,7 @@ low-level nerd
 generalist at heart, specialist by necessity.
 
 
-<p align="center">
+<p align="left">
   <a href="#gh-dark-mode-only">
     <img src="https://readme-stats-v.vercel.app/api?username=thobbiz&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
   </a>
