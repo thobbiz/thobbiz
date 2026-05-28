@@ -1,7 +1,6 @@
 ### **Thobbiz**
-
 low-level nerd
-Generalist at heart, specialist by necessity.
+generalist at heart, specialist by necessity.
 
 ---
 
@@ -13,9 +12,6 @@ Generalist at heart, specialist by necessity.
     <img src="https://readme-stats-v.vercel.app/api?username=thobbiz&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
   </a>
 </p>
-
-* Golang, Java, Python, Kotlin, C
-* Postgres, MySQL, MongoDB, Redis
 
 ---
 
