@@ -1,6 +1,6 @@
 ### **Thobbiz**
 
-Building across the stack, 3rd Year CS undergrad  
+low-level nerd
 Generalist at heart, specialist by necessity.
 
 ---
